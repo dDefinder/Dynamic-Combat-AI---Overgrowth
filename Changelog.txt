@@ -1,0 +1,14 @@
+1.4.2
+-Fixed AI not attacking while looking at dead bodies
+-AI will now be aggressive in a group fight if their target knocked down their current focused target
+-Fixed AI stuck in dodge and attack state resulting in AI standing around doing nothing until attacked
+-Other minor bug fixes
+
+1.4.1
+-Overall group fighting aggression bug fixes and changes
+-AI Patients reduced the longer it is waiting while group fighting without contact resulting in more simultaneous attacks. Unless engaged by the player
+
+1.4
+-Allowed certain dogs on the level to throw their weapon at a distant targets (In vanilla they will throw their weapons all the time)
+-Fixed rats not throwing their weapons
+-Added support for Balanced Jump Kicks. All rabbits are now allowed to attempt jump kicks
